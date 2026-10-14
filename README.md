@@ -73,7 +73,5 @@ The model correctly identifies 87% of malignant lesions, which suits a screening
 ## Disclaimer
 This tool is a screening aid only and is **not** a substitute for professional medical diagnosis. Please consult a dermatologist for any skin concern.
 
-## Team
-| Name | Roll No. | Guide |
-|------|----------|-------|
-| Gujjula Rebaka Rani | 23ME1A5464 | Mr. K. Kiran |
+## Author
+Name : Gujjula Rebaka Rani (23ME1A5464) Guide : Mr. K. Kiran 
